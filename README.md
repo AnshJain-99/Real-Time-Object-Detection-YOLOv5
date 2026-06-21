@@ -9,6 +9,17 @@ A real-time object detection system developed using YOLO and OpenCV for detectin
 - Bounding box visualization
 - High-speed inference
 
+## Demo
+The system performs real-time object detection on video streams using YOLO and OpenCV.
+
+### Detected Objects
+- Person
+- Car
+- Bicycle
+- Dog
+- Bottle
+- Chair
+
 ## Technologies Used
 - Python
 - YOLO
